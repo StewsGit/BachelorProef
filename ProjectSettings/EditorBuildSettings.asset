@@ -9,11 +9,14 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
   - enabled: 0
-    path: Assets/Scenes/New Scene.unity
-    guid: 402e8e251875cbd4fb54f63cdeacf71f
-  - enabled: 1
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
     path: Assets/Scenes/Room.unity
     guid: 634c41117f48a1940933d58845b6f252
+  - enabled: 1
+    path: Assets/VR/Scenes/Showcase.unity
+    guid: 4b428d974fe647240b8cf1d57da58f04
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 21dbf731f4231a44898022f4c468d3af,
       type: 2}
