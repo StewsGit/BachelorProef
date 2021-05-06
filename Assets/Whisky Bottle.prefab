@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   breakpoint: 0
-  destroyedVersion: {fileID: 3868825933529191422, guid: cf75f51f48c5f7c4481d5824021fffca,
+  destroyedVersion: {fileID: 8680848224060485931, guid: 89b7fd490e28b2646887d02c0f130fad,
     type: 3}
 --- !u!54 &1006584286901509376
 Rigidbody:
