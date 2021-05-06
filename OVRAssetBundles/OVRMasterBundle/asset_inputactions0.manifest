@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 1297172310
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b798ef1425e6a5d69bfb30505fa80149
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: baf11de0be307fed61b4aea69ec3fb60
+HashAppended: 0
+ClassTypes:
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc1515ab76e54f068e2f2207940fab32, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Samples/XR Interaction Toolkit/1.0.0-pre.2/Default Input Actions/XRI Default
+  Input Actions.inputactions
+- Assets/Samples/XR Interaction Toolkit/1.0.0-pre.2/XR Device Simulator/XR Device
+  Simulator Controls.inputactions
+Dependencies: []

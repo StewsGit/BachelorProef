@@ -1,0 +1,123 @@
+ManifestFileVersion: 0
+CRC: 1028058912
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 42fb418ee08eef95a23b6640cfb35b51
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2a719818832194bed73d07c77b1a182b
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: caff514de9b15ad48ab85dcff5508221, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01f69dc1cb084aa42b2f2f8cd87bc770, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03a5df2202a8b96488c744be3bd0c33e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2fadf230d1919748a9aa21d40f74619, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a2a9c34df4095f47b9ca8f975175f5b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab4c587457d86f4ca80582f946785ad, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e1a74d18f447b964cb55cfefcfe46500, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 79b7e65854ace8f44b05c52c6e824354, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4253f32900bcc4d499d675566142ded0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 017c5e3933235514c9520e1dace2a4b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 919e39492806b334982b6b84c90dd927, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bc5b4ba964e02b4ea773b2aaca7dc67, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7448815bd5148434682b3d931066cd10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc1515ab76e54f068e2f2207940fab32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9226f66c4b906d3499ed22dc89106f5e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f4db89cff142c84d8dc0887f0519c14, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0bf296fc962d7184ab14ad1841598d5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fd425c2d06f39bf4899d07c05d0f10eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6803edce0201f574f923fd9d10e5b30a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5b34befe5d0cbb642bb5d09104a47160, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e988983f96fe1dd48800bcdfc82f23e9, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+Assets:
+- Assets/Samples/XR Interaction Toolkit/1.0.0-pre.2/XR Device Simulator/XR Device
+  Simulator.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandLeft.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/CustomHandRight.prefab
+- Assets/Scenes/LocalPlayer.prefab
+- Assets/BJ Ashtrays/Prefabs/Ashtray_1.prefab
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandPoseDefaultPf.prefab
+Dependencies:
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_fbx0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_asset0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_controller0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_inputactions0

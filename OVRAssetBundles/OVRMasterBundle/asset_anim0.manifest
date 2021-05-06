@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 1546150621
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 77bce5b8de8a12d228298fe02bd7c505
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: af57576da81d5d3ce45807ac11234de6
+HashAppended: 0
+ClassTypes:
+- Class: 74
+  Script: {instanceID: 0}
+Assets:
+- Assets/Grip.anim
+- Assets/Oculus/SampleFramework/Core/CustomHands/Fuck You.anim
+Dependencies: []

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 2887686821
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3f43c78707eac032aac50dabfc36edcd
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cf819413351efa443d662a7afa84e32d
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Furniture_ges1/bed1/bed1.jpg
+- Assets/Furniture_ges1/sek/sek1_normal.jpg
+- Assets/Furniture_ges1/interior/wallpaper.jpg
+- Assets/BigFurniturePack/Textures/wood_3.JPG
+- Assets/Furniture_ges1/bed2/bed2normal.jpg
+- Assets/Furniture_ges1/tumba_fur/tumba_texture.jpg
+- Assets/Furniture_ges1/sek/ruch.jpg
+- Assets/Furniture_ges1/interior/wall.jpg
+- Assets/BJ Ashtrays/Prefabs/world-war-two-sexy-pinup-aibrush-art.jpg
+- Assets/Furniture_ges1/bed2/bed2.jpg
+- Assets/Furniture_ges1/glass_table/refl.jpg
+- Assets/Furniture_ges1/sek/sek1.jpg
+- Assets/Furniture_ges1/bed1/bed1normal.jpg
+- Assets/Furniture_ges1/tumba_fur/tumba_normal.jpg
+- Assets/Furniture_ges1/sek/sek2.jpg
+Dependencies: []

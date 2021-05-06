@@ -1,1 +1,1 @@
-Github_BachelorProef
+Bachelorproef

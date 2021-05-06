@@ -1,0 +1,77 @@
+ManifestFileVersion: 0
+CRC: 1854558247
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 10846c83cc6e18a911666f8a45ad69c2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fe1b010b9030167a391c488c0c95614
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Furniture_ges1/sek/sek1.FBX
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/l_hand_skeletal_lowres.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/r_hand_skeletal_lowres.fbx
+- Assets/BJ Ashtrays/Meshes/Ashtray_1.FBX
+- Assets/Furniture_ges1/glass_table/little_glass_table.FBX
+- Assets/Furniture_ges1/printer/printer.FBX
+- Assets/Furniture_ges1/glass_table/glass_table.FBX
+- Assets/Furniture_ges1/screen/screen.FBX
+- Assets/Old Nightstand/Model/Old Nightstand.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_thumbs_up_anim.fbx
+- Assets/Furniture_ges1/sek/sek4.FBX
+- Assets/Furniture_ges1/sek/sek3.FBX
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_point_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_generic_anim.fbx
+- Assets/BigFurniturePack/Models/rack_3.FBX
+- Assets/Furniture_ges1/interior/bank.FBX
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_mid_fist_anim.fbx
+- Assets/BigFurniturePack/Models/rack_5.FBX
+- Assets/Furniture_ges1/bed1/bed1.FBX
+- Assets/Furniture_ges1/tv/tv1.FBX
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_index_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_point_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_anim.fbx
+- Assets/Furniture_ges1/tumba_fur/tumba_fur.FBX
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_fist_anim.fbx
+- Assets/Furniture_ges1/bed2/bed2.FBX
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_thumbs_up_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_relax_3qtr_fist_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_pinch_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_hold_ping_pong_ball_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_index_mask_anim.fbx
+- Assets/Furniture_ges1/sek/sek2.FBX
+- Assets/Furniture_ges1/interior/background.FBX
+- Assets/Furniture_ges1/speaker/speaker.FBX
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_cap_touch_thumb_mask_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/r_hand_fist_anim.fbx
+- Assets/Oculus/SampleFramework/Core/CustomHands/Animations/l_hand_default_anim.fbx
+Dependencies:
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_mat0

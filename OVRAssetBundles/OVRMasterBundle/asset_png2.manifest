@@ -1,0 +1,42 @@
+ManifestFileVersion: 0
+CRC: 3471499183
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ed1030c0efc5d808011c0a13bf1c96c4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_62.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 256px/LDR_LLL1_1.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_28.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_43.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_12.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_32.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_47.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_63.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_41.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_58.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_16.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_31.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_17.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_9.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_18.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_57.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_7.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_46.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_60.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_11.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_52.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_26.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_22.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_39.png
+- Assets/Old Nightstand/Textures/Old_Nightstand_Albedo.png
+- Assets/Furniture_ges1/interior/fonas1.png
+- Packages/com.unity.postprocessing/PostProcessing/Textures/Blue Noise 64px/LDR_LLL1_56.png
+Dependencies: []
