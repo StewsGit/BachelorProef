@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4261833037
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 553497aa5a32c03264c80a7ea7e5f520
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0cb24712e50f7106a6eab0e77a1f54e8
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Packages/com.unity.postprocessing/PostProcessing/PostProcessResources.asset
+Dependencies:
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_png0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_png1
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_png2
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_compute0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_tga0

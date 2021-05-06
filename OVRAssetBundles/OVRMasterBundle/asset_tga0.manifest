@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 3034348376
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 44719cac731df180edac223509d2bd6f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Furniture_ges1/screen/screen.tga
+- Assets/Furniture_ges1/speaker/speaker.tga
+- Assets/BJ Ashtrays/Textures/Ashtray_1_AO.tga
+- Assets/BJ Ashtrays/Textures/Ashtray_1_NormalsMap.tga
+- Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/SearchTex.tga
+- Packages/com.unity.postprocessing/PostProcessing/Textures/SMAA/AreaTex.tga
+- Assets/Furniture_ges1/tv/tv_tex.tga
+Dependencies: []

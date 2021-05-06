@@ -1,0 +1,7 @@
+newmtl Whisky_Bottle
+map_Pm Whisky_Bottle_Metallic.tga
+bump Whisky_Bottle_Normal.png
+map_Kd Whisky_Bottle_Albedo.png
+Kd 1 1 1
+d 1
+

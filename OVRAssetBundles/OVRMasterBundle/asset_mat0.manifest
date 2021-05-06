@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 1861039387
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6626cf5ee2bb7e7a30bffacff01dc36d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Furniture_ges1/screen/Materials/screen.mat
+- Assets/Furniture_ges1/glass_table/Materials/12 - Default.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+- Assets/Furniture_ges1/interior/Materials/Material #35.mat
+- Assets/Furniture_ges1/bed1/Materials/bed1.mat
+- Assets/Furniture_ges1/tv/Materials/tv_tex.mat
+- Assets/BigFurniturePack/Models/Materials/rack_3-base_material.mat
+- Assets/Furniture_ges1/sek/Materials/sek1.mat
+- Assets/Old Nightstand/Materials/Old Nightstand.mat
+- Assets/Furniture_ges1/interior/Materials/fonas1.mat
+- Assets/Furniture_ges1/speaker/Materials/bx5.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Materials/Hands_solid.mat
+- Assets/Furniture_ges1/interior/Materials/wall.mat
+- Assets/BJ Ashtrays/Materials/Ashtray_1.mat
+- Assets/Furniture_ges1/sek/Materials/ruch.mat
+- Assets/Oculus/SampleFramework/Core/CustomHands/Models/HandMaterial.mat
+- Assets/Furniture_ges1/bed2/Materials/bed2.mat
+- Assets/Furniture_ges1/tumba_fur/Materials/tumba_texture.mat
+- Assets/Furniture_ges1/printer/Materials/printer.mat
+- Assets/Furniture_ges1/glass_table/Materials/18 - Default.mat
+- Assets/Furniture_ges1/interior/white.mat
+- Assets/Furniture_ges1/sek/Materials/sek2.mat
+- Assets/Furniture_ges1/interior/Materials/wallpaper.mat
+- Assets/Furniture_ges1/interior/Materials/okno.mat
+- Assets/Furniture_ges1/interior/Materials/floor.mat
+- Assets/Furniture_ges1/interior/Materials/poster.mat
+- Assets/BigFurniturePack/Models/Materials/base_material.mat
+Dependencies:
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_png0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_png1
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_png2
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_tga0
+- F:/Users/Stuie/Documents/UnityProjects/poging2/bachelorproef/OVRAssetBundles/OVRMasterBundle/asset_jpg0

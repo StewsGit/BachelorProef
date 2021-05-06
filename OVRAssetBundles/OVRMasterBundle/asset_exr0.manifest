@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1927468902
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: df787e3700b3287c47ddbbc9e083154b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12b06384357cab2714abea47e9d90750
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Furniture_ges1/scene/ReflectionProbe-1.exr
+- Assets/Furniture_ges1/scene/Lightmap-1_comp_light.exr
+- Assets/Furniture_ges1/scene/Lightmap-0_comp_light.exr
+- Assets/Furniture_ges1/scene/ReflectionProbe-0.exr
+Dependencies: []
